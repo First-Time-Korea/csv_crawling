@@ -36,8 +36,8 @@ public class LocatcionCodes {
         sidoGugunMap.put(1, seoulGuguns);
 
         Map<String, Integer> incheonGuguns = new HashMap<>();
-        incheonGuguns.put("계양구", 1);
-        incheonGuguns.put("강화군", 2);
+        incheonGuguns.put("계양구", 2);
+        incheonGuguns.put("강화군", 1);
         incheonGuguns.put("미추홀구", 3);
         incheonGuguns.put("남동구", 4);
         incheonGuguns.put("동구", 5);
